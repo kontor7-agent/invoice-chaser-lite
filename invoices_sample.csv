@@ -1,0 +1,7 @@
+number,agency,job,invoice_date,terms_days,amount,currency,paid_date
+2026-001,Example Agency A,Manual DE>EN,2026-08-01,30,640.00,EUR,2026-08-28
+2026-002,Example Agency B,Website FR>EN,2026-08-20,30,410.50,EUR,
+2026-003,Example Agency C,Subtitles 40 min,2026-09-05,30,560.00,EUR,
+2026-004,Example Agency A,Contract summary,2026-09-20,30,230.00,EUR,
+2026-005,Example Agency D,Brochure ES>EN,2026-10-01,14,380.00,EUR,
+2026-006,Example Agency B,Newsletter,2026-10-10,30,150.00,EUR,
